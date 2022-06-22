@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning ... React,Node Js, Data Structures 
 - 📫 How to reach me: ... LinkedIn Gmail Facebook 
 - ⚡ Fun fact: ... If people on a planet 65 million light years away look at Earth, they will see dinosaurs. :D
--->
+
